@@ -7,6 +7,11 @@
 - 📚 I love reading books
 - ✍ I write fiction when I’m bored
 
+## Contact me through:
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ## Technologies:
 
 <img align="left" alt="C" width="40px" src="https://cdn.svgporn.com/logos/c.svg" />
@@ -23,11 +28,6 @@
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
-
-## Contact me through:
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
