@@ -7,10 +7,14 @@
 - 📚 I love reading books
 - ✍ I write fiction when I’m bored
 
+
+
 ## Contact me through:
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 
 ## Technologies:
 
