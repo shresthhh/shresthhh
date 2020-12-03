@@ -28,7 +28,7 @@
 <img align="left" alt="Bootstrap" width="40px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 <img align="left" alt="Node.js" width="40px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
+<img align="left" alt="MongoDB" width="90px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://cdn.svgporn.com/logos/github-icon.svg" />
 
