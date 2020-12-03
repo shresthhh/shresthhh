@@ -24,9 +24,8 @@
 <img align="left" alt="HTML5" width="40px" src="https://cdn.svgporn.com/logos/html-5.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.svgporn.com/logos/css-3.svg" />
 <img align="left" alt="Sass" width="40px" src="https://cdn.svgporn.com/logos/sass.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-<img align="left" alt="GraphQL" width="40px" src="https://cdn.svgporn.com/logos/graphql.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.svgporn.com/logos/javascript.svg"/>
+<img align="left" alt="Bootstrap" width="40px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 <img align="left" alt="Node.js" width="40px" src="https://cdn.svgporn.com/logos/nodejs.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.svgporn.com/logos/mysql.svg" />
 <img align="left" alt="MongoDB" width="40px" src="https://cdn.svgporn.com/logos/mongodb.svg" />
