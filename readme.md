@@ -1,4 +1,3 @@
-### Hi this is Shresth Tiwary 🙋‍♂️
 
 ## I'm a Writer, Developer and a Weeb
 
