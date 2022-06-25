@@ -1,7 +1,7 @@
 
-## I'm a Writer, Developer and a Weeb
+## I'm a Developer and part time Writer
 
-- 📈 I’m currently learning React  
+- 📈 I’m currently working on Spring   
 - 👩‍💻 I’m a backend developer
 - 📚 I love reading books
 - ✍ I write fiction when I’m bored
